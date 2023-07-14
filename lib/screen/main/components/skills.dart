@@ -36,18 +36,11 @@ class Skills extends StatelessWidget {
                 label: "Java",
               ),
             ),
-           SizedBox(width: defaultPadding),
+              SizedBox(width: defaultPadding),
             Expanded(
               child: AnimatedCircularProgressIndicator(
                 percentage: 0.65,
                 label: "Firebase",
-              ),
-            ),
-             SizedBox(width: defaultPadding),
-            Expanded(
-              child: AnimatedCircularProgressIndicator(
-                percentage: 0.65,
-                label: "Building Design",
               ),
             ),
           ],

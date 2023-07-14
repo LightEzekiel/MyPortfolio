@@ -15,12 +15,12 @@ final List<Recommendation> demo_recommendations = [
     name: "Precious Okafor C.",
     source: "Twitter",
     text:
-        "Light is great asset for any organization. It's a true pleasure working with him at TakeIn. His flutter skill is amazing as well as his professionalism and being a good team player. Abu's problem solving skill is also one of his great skills.",
+        "Light is great asset for any organization. It's a true pleasure working with him at Bisector. His flutter skill is amazing as well as his professionalism and being a good team player. Light's problem solving skill is also one of his great skills.",
   ),
   Recommendation(
     name: "Obodozie Chuka",
     source: "LinkedIn",
     text:
-        "I like your way you doing your project and working with you is quite wonderful.\nI sincerely recommend you to any outstanding organization.",
+        "I like the way you structure your project and working with you is quite wonderful.\nI sincerely recommend you to any outstanding organization.",
   ),
 ];

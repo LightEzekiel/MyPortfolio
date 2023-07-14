@@ -1,3 +1,4 @@
+import 'dart:html' as html;
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -58,7 +59,8 @@ class SideMenu extends StatelessWidget {
                     Divider(),
                     SizedBox(height: defaultPadding / 2),
                     TextButton(
-                      onPressed: () {},
+                      onPressed: () {
+                         html.window.open("https://github.com/LightEzekiel/LightEzekiel.github.io/blob/main/assets/assets/LightezekielCV.pdf", "text");},
                       child: FittedBox(
                         child: Row(
                           children: [
